@@ -374,3 +374,5 @@ Your value is:
 * Calm problem-solving.
 
 If you prepare with this mindset, you will pass interviews that reject technically flashy but unsafe candidates.
+
+---
