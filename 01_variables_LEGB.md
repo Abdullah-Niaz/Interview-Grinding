@@ -1,8 +1,6 @@
-## Python Language Semantics (Junior Level)
+## Python Language Semantics m
 
 ### 1. Name Binding and the LEGB Rule
-
-### Core Concept
 
 In Python, **variables are names bound to objects**, not containers that store values.
 A name is simply a reference to an object that exists somewhere in memory.
