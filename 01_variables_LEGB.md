@@ -1,4 +1,4 @@
-## Python Language Semantics m
+## Python Language Semantics 
 
 ### 1. Name Binding and the LEGB Rule
 
