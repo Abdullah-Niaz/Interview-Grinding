@@ -1,4 +1,4 @@
-# Python Developer. Complete Interview Preparation Guide (Senior Level)
+# Python Developer. Complete Interview Preparation Guide 
 
 ---
 
