@@ -34,7 +34,7 @@ If you cannot read unfamiliar Python code and reason about it, you are not ready
 * Can modify existing systems safely.
 * Writes tests.
 * Understands trade-offs.
-
+ 
 ### Senior (Interview Target)
 
 * Designs Python components.
