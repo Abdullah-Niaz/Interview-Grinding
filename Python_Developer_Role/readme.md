@@ -1,5 +1,4 @@
 # Python Developer. Complete Interview Preparation Guide 
-
 ---
 
 ## 1. What Companies Mean by “Python Developer”
