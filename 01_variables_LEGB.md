@@ -10,7 +10,6 @@ x = 10
 ```
 
 Here, `x` is bound to the integer object `10`. The integer does not live inside `x`.
-
 ---
 
 ### Name Lookup Order. LEGB
